@@ -40,4 +40,6 @@ The bot will sent an error message in a number of scenarios:
 
 ![image-20210212131136850](https://i.imgur.com/ks1WlzI.png)
 
+(no, you don't need to send a picture of the emoji along with the link, that's just the default image embed, and is also a good indication of whether you sent a valid link or not)
+
 ![image-20210212131306149](https://i.imgur.com/inHUnfp.png)
