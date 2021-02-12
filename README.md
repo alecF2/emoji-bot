@@ -19,9 +19,7 @@ A locally run bot that allows you to easily add emojis from other servers to you
 
 Coming soon.
 
-## Commands
-
-There's only one command:
+## Usage
 
 ```
 >emoji {emoji_name} {link_to_image}
