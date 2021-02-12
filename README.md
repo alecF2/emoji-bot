@@ -35,3 +35,9 @@ The bot will sent an error message in a number of scenarios:
 * you sent a link but it wasn't a direct image link (e.g. you sent a link to an Imgur album not an actual image)
 * you sent a valid image link but the size of the file was too large
 * you sent a valid image link but you have already reached the max number of emojis in your server
+
+## Examples
+
+![image-20210212131136850](https://i.imgur.com/ks1WlzI.png)
+
+![image-20210212131306149](https://i.imgur.com/inHUnfp.png)
