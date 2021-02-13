@@ -15,7 +15,7 @@ Written in JavaScript.
 * download the repository to a preferred location
 * open 'config.json' file, and paste in your bot's token between the empty quotes; learn how to find your bot's token here: [How to Get a Discord Bot Token (Step-by-Step Guide) (writebots.com)](https://www.writebots.com/discord-bot-token/)
 * that's all the setup needed. invite your bot to your server. ([Creating a Bot Account (discordpy.readthedocs.io)](https://discordpy.readthedocs.io/en/latest/discord.html#inviting-your-bot)) make sure "Manage Emojis" permission is selected.
-* open a terminal in the root of the folder, and run the bot with 'node index.js'. if all went well you should see "Logged in as bot_name#0000" soon after you run it.
+* open a terminal in the root of the folder, and run the bot by entering 'node index.js'. if all went well you should see "Logged in as bot_name#0000" soon after you run it.
 
 ## Running this on the cloud
 
