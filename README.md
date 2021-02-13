@@ -2,6 +2,8 @@
 
 A locally run bot that allows you to easily add emojis from other servers to your own server without the need to save images. I could not for the life of me find a Discord bot that simply does this, so I made my own. Or maybe I'm blind.
 
+Written in JavaScript.
+
 ## Requirements
 
 * node.js (to run locally)
