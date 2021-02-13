@@ -29,7 +29,7 @@ Coming soon.
 
 ## Possible Errors
 
-The bot will sent an error message in a number of scenarios:
+The bot will send an error message in a number of scenarios:
 
 * you sent an invalid link (links must start with http:// or https://)
 * you sent a link but it wasn't a direct image link (e.g. you sent a link to an Imgur album not an actual image)
