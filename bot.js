@@ -19,11 +19,6 @@ client.on('message', message => {
         return;
     }
 
-    if (message.content = ">reiji") {
-        message.channel.send("https://tenor.com/view/punch-blue-hoodie-beat-up-gif-15435775");
-        return;
-    }
-
     const commandBody = message.content.slice(prefix.length);
     const args = commandBody.split(' ');
     const command = args.shift().toLowerCase();
